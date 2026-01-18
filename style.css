@@ -158,9 +158,6 @@ body {
   animation: move 45s linear infinite;
 }
 
-.cinema-slider:hover .track {
-  animation-play-state: paused;
-}
 
 .track img {
   width: 420px;
@@ -303,3 +300,4 @@ color: #fff
   transform: translateY(-3px);
   box-shadow: 0 15px 35px rgba(0,0,0,0.35);
 }
+
